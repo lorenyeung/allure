@@ -1,0 +1,51 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Surefire suite",
+    "children" : [ {
+      "name" : "Surefire test",
+      "children" : [ {
+        "name" : "my.company.SimpleTest",
+        "children" : [ {
+          "name" : "simpleTestOne",
+          "uid" : "ee17b429e72e954a",
+          "parentUid" : "b7dbcbce0dc34759aa27283183a163a7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1687325011294,
+            "stop" : 1687325011301,
+            "duration" : 7
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "simpleTestTwo",
+          "uid" : "d031c8ec26398af6",
+          "parentUid" : "b7dbcbce0dc34759aa27283183a163a7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1687325011355,
+            "stop" : 1687325011356,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b7dbcbce0dc34759aa27283183a163a7"
+      } ],
+      "uid" : "1fcb2e6ec8e5b5e8a1f2a70b87c80b24"
+    } ],
+    "uid" : "940a09faf31371a51747026c9d178f0a"
+  } ]
+}

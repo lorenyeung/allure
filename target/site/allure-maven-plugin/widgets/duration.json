@@ -1,0 +1,21 @@
+[ {
+  "uid" : "ee17b429e72e954a",
+  "name" : "simpleTestOne",
+  "time" : {
+    "start" : 1687325011294,
+    "stop" : 1687325011301,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d031c8ec26398af6",
+  "name" : "simpleTestTwo",
+  "time" : {
+    "start" : 1687325011355,
+    "stop" : 1687325011356,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
